@@ -36,5 +36,7 @@ Track Score prediction MSE:
 
 # How to run
 
-1. Kaggle.csv - dataset from https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024/data
-2. 
+1. Kaggle.csv - dataset from
+https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024/data
+2. DataMining.ipynb - uses Spotify’s open API to gather additional data on the songs artists genres (because Spotify does not have song genres). Add your Spotify Developer id and secret to authenticator to run.
+3. Mined_data.csv - data gathered using Spotify’s open API
