@@ -43,3 +43,4 @@ https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-202
 4. Mined_data.csv - data gathered using Spotify’s open API
 5. DataCombining.ipynb - combines the kaggle and mined datasets, combines features of the same metrics and applies initial data processing. Creates Standardized_data.csv, Normalized_data.csv and Averaged_data.csv which have the combined datasets respectively standardized, normalized and averaged together.
 6. Standardized_data.csv, Normalized_data.csv and Averaged_data.csv are the complete datasets with which the analysis and modelling are done
+7. Analysis.ipynb - contains the analaysis on the full data using graphs and plots
