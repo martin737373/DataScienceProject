@@ -41,3 +41,4 @@ https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-202
 2. InitialAnalysis.ipynb - contain the initial analysis for the validity of the dataset
 3. DataMining.ipynb - uses Spotify’s open API to gather additional data on the songs artists genres (because Spotify does not have song genres). Add your Spotify Developer id and secret to authenticator to run.
 4. Mined_data.csv - data gathered using Spotify’s open API
+5. DataCombining.ipynb - combines the kaggle and mined datasets, combines features of the same metrics and applies initial data processing. Creates Standardized_data.csv, Normalized_data.csv and Averaged_data.csv which have the combined datasets respectively standardized, normalized and averaged together.
